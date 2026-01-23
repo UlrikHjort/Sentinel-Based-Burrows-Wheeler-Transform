@@ -1,6 +1,6 @@
-# Sentinel-Based Burrows–Wheeler Transform
+# Sentinel based Burrows–Wheeler Transform
 
-This document describes a **sentinel-based implementation of the Burrows–Wheeler Transform**, including its forward transform, inverse transform, and the underlying concepts.
+This document describes a sentinel-based implementation of the **[Burrows-Wheeler Transform (BWT)](https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform)**, including its forward transform, inverse transform, and the underlying concepts.
 
 The sentinel-based approach is the *classical* formulation found in most textbooks and academic papers.
 
